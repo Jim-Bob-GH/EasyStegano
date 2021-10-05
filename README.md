@@ -1,0 +1,2 @@
+# EasyStegano
+Steganography script
